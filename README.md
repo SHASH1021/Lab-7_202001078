@@ -6,6 +6,9 @@
 
 # Section A
 
+![231531684-fb515be8-44ba-41d5-987f-2d556f61d212](https://user-images.githubusercontent.com/123000983/231538859-ed05c2d5-5f03-463f-bac6-c94a5ae1fc97.png)
+
+
  
 Equivalence Partitioning Test Cases:
 
